@@ -1,4 +1,3 @@
-# portswigger-portfolio
 # 🛡️ Web Application Penetration Testing Showcase
 An interactive repository containing comprehensive, hands-on vulnerability research and write-ups from the PortSwigger Web Security Academy [🧠]. This portfolio covers practical lab exploitation methodologies mapping directly to critical entries in the OWASP Top 10 framework [🧠].
 
