@@ -37,9 +37,9 @@ This allows external attackers to route traffic directly through the trusted ser
 ---
 
 ## 📸 Technical Portfolio Artifacts
-* **Admin Privilege Discovery:** `![Repeater SSRF Localhost 200 OK](01-repeater-ssrf-localhost-200-ok.png)`
-* **Exploit Purge Validation:** `![Repeater SSRF Deletion 302 Found](02-repeater-ssrf-deletion-302-found.png)`
-* **Remediation Proof:** `![Lab Solved Victory Banner](03-lab-solved-victory-banner.png)`
+* **Admin Privilege Discovery:** ![Repeater SSRF Localhost 200 OK](01-repeater-ssrf-localhost-200-ok.png)
+* **Exploit Purge Validation:** ![Repeater SSRF Deletion 302 Found](02-repeater-ssrf-deletion-302-found.png)
+* **Remediation Proof:** ![Lab Solved Victory Banner](03-lab-solved-victory-banner.png)
 
 ---
 
