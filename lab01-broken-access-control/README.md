@@ -34,8 +34,8 @@ By modifying the cookie state, an unprivileged user can force authorization onto
 ---
 
 ## 📸 Technical Portfolio Artifacts
-* **Exploit Verification:** `![Cookie Manipulation Admin True](01-cookie-manipulation-admin-true.png)`
-* **Remediation Proof:** `![Lab Solved Victory Banner](02-lab-solved-victory-banner.png)`
+* **Exploit Verification:** ![Cookie Manipulation Admin True](01-cookie-manipulation-admin-true.png)
+* **Remediation Proof:** ![Lab Solved Victory Banner](02-lab-solved-victory-banner.png)
 
 ---
 
