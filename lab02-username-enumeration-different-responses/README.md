@@ -36,9 +36,9 @@ By capturing an authentication attempt and leveraging automated dictionary scrip
 ---
 
 ## 📸 Technical Portfolio Artifacts
-* **Username Extraction Proof:** `![Intruder Username Length Anomaly](01-intruder-username-length-anomaly.png)`
-* **Password Brute-Force Success:** `![Intruder Password 302 Redirect](02-intruder-password-302-redirect.png)`
-* **Remediation Proof:** `![Lab Solved Victory Banner](03-lab-solved-victory-banner.png)`
+* **Username Extraction Proof:** ![Intruder Username Length Anomaly](01-intruder-username-length-anomaly.png)
+* **Password Brute-Force Success:** ![Intruder Password 302 Redirect](02-intruder-password-302-redirect.png)
+* **Remediation Proof:** ![Lab Solved Victory Banner](03-lab-solved-victory-banner.png)
 
 ---
 
